@@ -1,5 +1,4 @@
 def oxford_comma(array)
-array = []
   case array.length 
   when 1
     "#{array[0]}"
